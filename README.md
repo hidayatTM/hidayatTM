@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hidayatTM
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming & ERP Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development ( backend)
 - 📫 How to reach me (muhtar.mis@gmail.com or 08571486221)
